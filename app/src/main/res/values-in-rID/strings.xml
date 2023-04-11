@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PetaCatatan</string>
+    <string name="tvNote">Tambahkan Catatan Di Sini</string>
+    <string name="etTitle">Judul Catatan</string>
+    <string name="etDesc">Deskripsi Catatan</string>
+    <string name="btn_save">Simpan</string>
+    <string name="tv_cancel">Batal</string>
+    <string name="marker_amount">"Marker Ditambahkan "</string>
+    <string name="action_language">Bahasa</string>
+    <string name="normal_map">Peta Biasa</string>
+    <string name="satelite_map">Peta Satelit</string>
+    <string name="terrain_map">Peta Medan</string>
+    <string name="hybrid_map">Peta Hibrid</string>
+    <string name="compass">Kompas</string>
+</resources>

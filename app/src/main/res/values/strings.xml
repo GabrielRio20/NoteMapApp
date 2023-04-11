@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NoteMap</string>
+    <string name="title_activity_maps">NoteMap</string>
+    <string name="tvNote">Add Note to This Place</string>
+    <string name="etTitle">Note Title</string>
+    <string name="etDesc">Note Description</string>
+    <string name="btn_save">Save</string>
+    <string name="tv_cancel">Cancel</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="marker_amount">Marker Added</string>
+    <string name="action_language">Language</string>
+    <string name="normal_map">Normal Map</string>
+    <string name="satelite_map">Satellite Map</string>
+    <string name="terrain_map">Terrain Map</string>
+    <string name="hybrid_map">Hybrid Map</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="compass">Compass</string>
+</resources>

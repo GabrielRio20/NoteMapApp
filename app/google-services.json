@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "496569327699",
+    "project_id": "notemapapp",
+    "storage_bucket": "notemapapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496569327699:android:126e47a98c1f3c3d3066a6",
+        "android_client_info": {
+          "package_name": "com.example.notemapapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496569327699-g9s1g11a8k7uc08dvn8rlkslk04ckutf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR7vKtypj8zERhfkN4eK-llvpLaeD2J9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496569327699-g9s1g11a8k7uc08dvn8rlkslk04ckutf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
